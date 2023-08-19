@@ -1,4 +1,3 @@
-%%writefile app.py
 import streamlit as st
 st.write('# streamlit application for finding the largest among the 3 given numbers')
 st.write('#User Input Parameters')
